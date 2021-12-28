@@ -31,9 +31,12 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/vendor/bootstrap/5.1.3/css/bootstrap.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendor/bootstrap/5.1.3/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -1,0 +1,23 @@
+{
+  "app_name": "EKiW",
+  "About": "Über",
+  "Home": "Startseite",
+  "Logged in as": "Angemeldet als",
+  "Login": "Anmelden",
+  "Logout": "Abmelden",
+  "Password": "Passwort",
+  "Password is required": "Passwort wird benötigt",
+  "Username": "Benutzername",
+  "Username is required": "Benutzername wird benötigt",
+  "Username or password incorrect.": "Benutzername oder Passwort falsch.",
+  "Remember me": "Eingeloggt bleiben",
+  "Version": "Version",
+  "de-DE": "Deutsch",
+  "en-US": "Englisch",
+  "es-ES": "Spanisch",
+  "fr-FR": "Französisch",
+  "it-IT": "Italienisch",
+  "pt-BR": "Portugisisch",
+  "zh-CN": "Chinesisch",
+  "app_title": "Ein Kurs in Wundern!"
+}

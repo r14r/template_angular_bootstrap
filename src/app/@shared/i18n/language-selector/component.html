@@ -1,0 +1,17 @@
+<li class="nav-item dropdown">
+  <a
+    class="nav-link dropdown-toggle"
+    href="#"
+    id="dropdownLanguage"
+    data-bs-toggle="dropdown"
+    aria-expanded="false"
+    >{{ currentLanguage }}</a
+  >
+  <ul class="dropdown-menu" aria-labelledby="dropdownLanguage">
+    <li *ngFor="let language of languages">
+      <a class="dropdown-item" href="#" (click)="setLanguage(language)"
+        >{{ language | translate }}</a
+      >
+    </li>
+  </ul>
+</li>
